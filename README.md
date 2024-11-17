@@ -27,6 +27,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-### 🎵 Spotify Playing
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31svx6sirzdbir662rjtvygde62)](https://open.spotify.com/user/31svx6sirzdbir662rjtvygde62)
+### 🎵 My Spotify Playlist
+[Listen to my Spotify Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUlxikDc4tqi)
+
 
